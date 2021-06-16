@@ -8,4 +8,4 @@ shift=input('please enter shift')
 if shift=='morning':
     print('morning shift')
 else:
-    print('enening shift')
+    print('evening shift')
